@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7d851446071059325a92b5dd17886395742f1a39?a=0x5c5d1e8bb813f0c810638af8bfa0f51f2eabe6d7",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x7d851446071059325a92b5dd17886395742f1a39?a=0x5c5d1e8bb813f0c810638af8bfa0f51f2eabe6d7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SpaceBros",
+  "SYMBOL": "SBNFT",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/space-bros",
+  "SHOW_BACKGROUND": true
+}
